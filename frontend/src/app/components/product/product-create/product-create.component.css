@@ -13,3 +13,12 @@
 h1 {
     text-transform: capitalize;    
 }
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    margin-top: 10px;
+}

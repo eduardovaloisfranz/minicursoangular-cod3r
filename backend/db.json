@@ -19,6 +19,16 @@
       "name": "Produto de Teste",
       "price": 3200.99,
       "id": 4
+    },
+    {
+      "name": "hey its a exclusive new product",
+      "price": "3200.00",
+      "id": 5
+    },
+    {
+      "name": "new product datasource",
+      "price": "1200.90",
+      "id": 6
     }
   ]
 }
