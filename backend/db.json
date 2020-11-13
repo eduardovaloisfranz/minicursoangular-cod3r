@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Caneta azul, azul caneta..",
+      "price": 3.46
+    },
+    {
+      "id": 3,
+      "name": "Pc gamer",
+      "price": 2.4
+    },
+    {
+      "name": "Produto de Teste",
+      "price": 3200.99,
+      "id": 4
+    }
+  ]
+}

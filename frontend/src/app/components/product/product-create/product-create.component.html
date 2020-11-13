@@ -1,0 +1,30 @@
+<h1 class="text-center">Create product</h1>
+<div class="example-container">
+    <div class="formStyle">
+        <div>
+            <label>Name of Product</label>
+            <mat-form-field appearance="standard">
+                <mat-label>Name of kkk</mat-label>
+                <input matInput placeholder="Type name of Product">                
+            </mat-form-field>        
+        </div>
+        <div>
+            <label>Price of Product</label>
+            <mat-form-field appearance="standard">
+                <mat-label>Price of Product</mat-label>
+                <input matInput placeholder="Type the Price of Product">                
+            </mat-form-field>            
+        </div>
+    </div>
+</div>
+<!-- <button (click)="fazerAlgo()">    Fazer algo!</button> -->
+<div class="flex justify-between">
+
+    <button mat-raised-button (click)="createProduct()" color="primary">
+        Salvar
+    </button>   
+    
+    <button mat-raised-button (click)="cancel()" color="danger">
+        Cancelar
+    </button>
+</div>
